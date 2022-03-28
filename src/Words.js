@@ -1,10 +1,14 @@
 export const boardDefault = [
-  ["", "", "", "", ""],
-  ["", "", "", "", ""],
+  ["", "G", "", "", ""],
+  ["", "", "", "A", ""],
   ["", "", "F", "", ""],
   ["", "", "", "", ""],
   ["", "", "", "", ""],
+  ["", "", "", "", ""],
 ];
+
+//matrix
+//where there is a letter, wil be correctly assigned
 
 //each array represents an attempt
 
